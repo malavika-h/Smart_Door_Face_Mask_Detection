@@ -1,0 +1,2 @@
+# Smart_Door_Face_Mask_Detection
+Developed a smart door system which can carry out artificial intelligence-based face mask detection, automated temperature screening, door opening and hand sanitizer dispensing. Further, data collected from the people at the door is sent to a cloud network which can later be used to study the trends in rising or coming down of cases and average temperatures of people in a region
